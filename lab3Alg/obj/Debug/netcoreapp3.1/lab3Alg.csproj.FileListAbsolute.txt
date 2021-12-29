@@ -1,0 +1,39 @@
+/Users/admin/Projects/lab3Alg/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.deps.json
+/Users/admin/Projects/lab3Alg/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.json
+/Users/admin/Projects/lab3Alg/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.dev.json
+/Users/admin/Projects/lab3Alg/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/lab3Alg/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.AssemblyReference.cache
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfoInputs.cache
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfo.cs
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/lab3Alg/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.genruntimeconfig.cache
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.deps.json
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.json
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.dev.json
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.AssemblyReference.cache
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfoInputs.cache
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfo.cs
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/запасные копии/lab3Alg (v0)/lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.genruntimeconfig.cache
+/Users/admin/Projects/lab3Alg /lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.deps.json
+/Users/admin/Projects/lab3Alg /lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.json
+/Users/admin/Projects/lab3Alg /lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.runtimeconfig.dev.json
+/Users/admin/Projects/lab3Alg /lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/lab3Alg /lab3Alg/bin/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.AssemblyReference.cache
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfoInputs.cache
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.AssemblyInfo.cs
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.dll
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.pdb
+/Users/admin/Projects/lab3Alg /lab3Alg/obj/Debug/netcoreapp3.1/lab3Alg.genruntimeconfig.cache
